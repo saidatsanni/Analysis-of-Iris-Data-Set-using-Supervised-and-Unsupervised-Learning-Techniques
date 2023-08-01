@@ -48,8 +48,6 @@ pairs(iris[,1:4])
 
 
 ######################################Supervised and Unsupervised Learning: Clustering Analysis#############################
-set.seed(13506094) #set a seed for replication
-
 ###########Split the data into 80% Training and 20% Testing data set
 index <- sample(x=nrow(iris), size=nrow(iris)*0.8) 
 iris_train <- iris[index,]
