@@ -11,4 +11,4 @@ We consider exploratory data analysis and clustering analysis:
 
 **Project**
 
-R was used for the coding and the creation of the project which can be found here: [Data Modeling with Splines and GAM](https://rpubs.com/Saidat/B-Splines-and-GAM)
+R was used for the coding and the creation of the project which can be found here: [R Script](https://github.com/saidatsanni/Analysis-of-Iris-Data-Set-using-Supervised-and-Unsupervised-Learning-Techniques/blob/116d3307a82ff775e22852b46286e499f2de831e/Main/Supervised%20and%20Unsupervised%20Learning_IrisData.R) and [Final Project](https://github.com/saidatsanni/Analysis-of-Iris-Data-Set-using-Supervised-and-Unsupervised-Learning-Techniques/blob/116d3307a82ff775e22852b46286e499f2de831e/Main/Supervised%20and%20Unsupervised%20Learning_IrisData.pdf)
